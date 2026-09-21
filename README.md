@@ -1,0 +1,2 @@
+# -House-Price-Prediction-Using-Multiple-Linear-Regression
+This project focuses on predicting house prices using Multiple Linear Regression (MLR) in Python as part of the Mission Ready Data Analyst Accelerator programme. The analysis involved exploring and preparing the housing data, identifying relationships between features and prices, and building a regression model to make house price predictions.
